@@ -1,7 +1,7 @@
 {
   "name": "assig01",
   "version": "1.0.0",
-  "description": "",
+  "description": "First assignment of Tyscript",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
