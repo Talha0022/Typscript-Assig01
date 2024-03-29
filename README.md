@@ -1,2 +1,2 @@
 ﻿# Typscript-Assig01
-d
+First Assignment of Tyscript
